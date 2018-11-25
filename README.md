@@ -29,4 +29,4 @@
 
 - [md синтаксис](https://github.com/sandino/Markdown-Cheatsheet)
 - [Typora](gttps://typora.io) удоьнвй редактор markdown
-  *РКН - заблокировал этот сайт. Вот [зеркало](/typora-editor/typora-setup-x64.exe)*
+  *РКН - заблокировал этот сайт. Вот [зеркало](https://yadi.sk/d/AjXdJkT-Wvo0oQ)*
